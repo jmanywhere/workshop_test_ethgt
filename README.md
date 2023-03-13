@@ -11,3 +11,21 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.ts
 ```
+
+---
+
+# Ethereum Guatemala
+
+Environment Requirements:
+
+- nodejs
+- hardhat
+
+#### Other environments
+
+- Apeworx (Python)
+- Foundry (Solidity)
+- Hardhat (JS)
+- Reconsider approach:
+  - Eth-Brownie (python)
+  - Truffle (JS)
